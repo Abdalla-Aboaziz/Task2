@@ -1,0 +1,15 @@
+E:\00-Projects\API\Task2\OrderFlow\OrderFlow.Application\obj\Debug\net8.0\OrderFlow.Application.csproj.AssemblyReference.cache
+E:\00-Projects\API\Task2\OrderFlow\OrderFlow.Application\obj\Debug\net8.0\OrderFlow.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\00-Projects\API\Task2\OrderFlow\OrderFlow.Application\obj\Debug\net8.0\OrderFlow.Application.AssemblyInfoInputs.cache
+E:\00-Projects\API\Task2\OrderFlow\OrderFlow.Application\obj\Debug\net8.0\OrderFlow.Application.AssemblyInfo.cs
+E:\00-Projects\API\Task2\OrderFlow\OrderFlow.Application\obj\Debug\net8.0\OrderFlow.Application.csproj.CoreCompileInputs.cache
+E:\00-Projects\API\Task2\OrderFlow\OrderFlow.Application\bin\Debug\net8.0\OrderFlow.Application.deps.json
+E:\00-Projects\API\Task2\OrderFlow\OrderFlow.Application\bin\Debug\net8.0\OrderFlow.Application.dll
+E:\00-Projects\API\Task2\OrderFlow\OrderFlow.Application\bin\Debug\net8.0\OrderFlow.Application.pdb
+E:\00-Projects\API\Task2\OrderFlow\OrderFlow.Application\bin\Debug\net8.0\OrderFlow.Domain.dll
+E:\00-Projects\API\Task2\OrderFlow\OrderFlow.Application\bin\Debug\net8.0\OrderFlow.Domain.pdb
+E:\00-Projects\API\Task2\OrderFlow\OrderFlow.Application\obj\Debug\net8.0\OrderFlo.2D223CEF.Up2Date
+E:\00-Projects\API\Task2\OrderFlow\OrderFlow.Application\obj\Debug\net8.0\OrderFlow.Application.dll
+E:\00-Projects\API\Task2\OrderFlow\OrderFlow.Application\obj\Debug\net8.0\refint\OrderFlow.Application.dll
+E:\00-Projects\API\Task2\OrderFlow\OrderFlow.Application\obj\Debug\net8.0\OrderFlow.Application.pdb
+E:\00-Projects\API\Task2\OrderFlow\OrderFlow.Application\obj\Debug\net8.0\ref\OrderFlow.Application.dll

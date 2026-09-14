@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "TLcoSc7qwCI=",
+  "success": true,
+  "projectFilePath": "E:\\00-Projects\\API\\Task2\\OrderFlow\\OrderFlow.Domain\\OrderFlow.Domain.csproj",
+  "expectedPackageFiles": [
+    "D:\\NugetPackages\\microsoft.netcore.app.ref\\8.0.28\\microsoft.netcore.app.ref.8.0.28.nupkg.sha512",
+    "D:\\NugetPackages\\microsoft.windowsdesktop.app.ref\\8.0.28\\microsoft.windowsdesktop.app.ref.8.0.28.nupkg.sha512",
+    "D:\\NugetPackages\\microsoft.aspnetcore.app.ref\\8.0.28\\microsoft.aspnetcore.app.ref.8.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
